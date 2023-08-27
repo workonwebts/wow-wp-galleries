@@ -1,2 +1,2 @@
-# jetpack-wp-galleries
-Laying the groundwork for Jetpack galleries to make it into core
+# WoW-wp-galleries
+Abilita il mosaico immagini stile Jetpack nel core Wordpress
